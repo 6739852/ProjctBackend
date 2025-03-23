@@ -49,3 +49,21 @@ D:\פרויקט נעמי\The_Project\Mock\obj\Debug\net8.0\refint\Mock.dll
 D:\פרויקט נעמי\The_Project\Mock\obj\Debug\net8.0\Mock.pdb
 D:\פרויקט נעמי\The_Project\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
 D:\פרויקט נעמי\The_Project\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Mock\obj\Debug\net8.0\ref\Mock.dll

@@ -34,3 +34,16 @@ D:\פרויקט נעמי\The_Project\Common\obj\Debug\net8.0\Common.dll
 D:\פרויקט נעמי\The_Project\Common\obj\Debug\net8.0\refint\Common.dll
 D:\פרויקט נעמי\The_Project\Common\obj\Debug\net8.0\Common.pdb
 D:\פרויקט נעמי\The_Project\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Aman\Desktop\ProjctBackend\The_Project\Common\obj\Debug\net8.0\ref\Common.dll

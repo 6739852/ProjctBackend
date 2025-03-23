@@ -4,12 +4,14 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Repository.Entities;
 using Repository.Intefaces;
 using Service.Interface;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Service.Services
 {
@@ -75,27 +77,51 @@ namespace Service.Services
         //        signingCredentials: credentials);
         //    return new JwtSecurityTokenHandler().WriteToken(token);
         //}
+        //public string Generate(User user)
+        //{
+        //    var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]));
+        //    var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+        //    var purchasingGroupsJson = JsonSerializer.Serialize(user.PurchasingGroups);
+        //    var claims = new[]
+        //    {
+        //        new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()), // מזהה ייחודי
+        //        new Claim(ClaimTypes.Name, user.Name), // שם המשתמש **אמיתי**
+        //        new Claim(ClaimTypes.Email, user.Email), // אימייל
+        //        new Claim("PurchasingGroups", purchasingGroupsJson) // קבוצות רכישה תחת Claim מותאם אישית
+        //};
+        //    var token = new JwtSecurityToken(
+        //        config["Jwt:Issuer"], // מנפיק הטוקן (Issuer)
+        //        config["Jwt:Audience"], // מי יכול להשתמש בטוקן (Audience)
+        //        claims, // המידע בתוך הטוקן
+        //        expires: DateTime.Now.AddMinutes(60), // זמן תפוגה - שעה אחת
+        //        signingCredentials: credentials // החתימה הדיגיטלית של הטוקן
+        //    );
+        //    return new JwtSecurityTokenHandler().WriteToken(token);
+        //}
         public string Generate(User user)
         {
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+            var purchasingGroupsJson = JsonSerializer.Serialize(user.PurchasingGroups);
+
             var claims = new[]
             {
-              new Claim(ClaimTypes.NameIdentifier, user.Name),
-              new Claim(ClaimTypes.Email, user.Email),
-              // אין צורך לשמור את הסיסמה בטוקן!
+               new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()), // מזהה ייחודי
+               new Claim(ClaimTypes.Name, user.Name), // שם המשתמש **אמיתי**
+               new Claim(ClaimTypes.Email, user.Email), // אימייל
+               new Claim("PurchasingGroups", purchasingGroupsJson) // קבוצות רכישה תחת Claim מותאם אישית
             };
+
             var token = new JwtSecurityToken(
-                config["Jwt:Issuer"], // מנפיק הטוקן (Issuer)
-                config["Jwt:Audience"], // מי יכול להשתמש בטוקן (Audience)
-                claims, // המידע בתוך הטוקן
-                expires: DateTime.Now.AddMinutes(60), // זמן תפוגה - שעה אחת
-                signingCredentials: credentials // החתימה הדיגיטלית של הטוקן
+                config["Jwt:Issuer"],
+                config["Jwt:Audience"],
+                claims,
+                expires: DateTime.Now.AddMinutes(60),
+                signingCredentials: credentials
             );
-
-
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
     }
 }

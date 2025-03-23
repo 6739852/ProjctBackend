@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aman\\Desktop\\The_Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:10:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\UserService.cs*",
+              "RelativeToolTip": "Service\\Services\\UserService.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:10:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "The_Project\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "The_Project\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:00:29.773Z",
+              "EditorCaption": ""
             }
           ]
         }

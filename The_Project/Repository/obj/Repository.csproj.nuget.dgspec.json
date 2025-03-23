@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aman\\Desktop\\The_Project\\Repository\\Repository.csproj": {}
+    "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aman\\Desktop\\The_Project\\Repository\\Repository.csproj": {
+    "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aman\\Desktop\\The_Project\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Aman\\Desktop\\The_Project\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Aman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aman\\Desktop\\The_Project\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
