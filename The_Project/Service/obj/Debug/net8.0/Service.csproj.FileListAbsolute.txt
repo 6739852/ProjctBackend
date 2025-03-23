@@ -1,0 +1,51 @@
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Aman\Desktop\The_Project\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Common.dll
+C:\Users\Aman\Desktop\The_Project\Service\bin\Debug\net8.0\Common.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Common.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Common.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Service\obj\Debug\net8.0\ref\Service.dll
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Service.deps.json
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Service.dll
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Service.pdb
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Common.dll
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Repository.dll
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Common.pdb
+D:\פרויקט נעמי\The_Project\Service\bin\Debug\net8.0\Repository.pdb
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.dll
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\refint\Service.dll
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\Service.pdb
+D:\פרויקט נעמי\The_Project\Service\obj\Debug\net8.0\ref\Service.dll

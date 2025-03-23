@@ -1,0 +1,36 @@
+C:\Users\Aman\Desktop\The_Project\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Aman\Desktop\The_Project\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\Desktop\The_Project\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Aman\Desktop\The_Project\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\פרויקט נעמי\The_Project\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\פרויקט נעמי\The_Project\Repository\bin\Debug\net8.0\Repository.dll
+D:\פרויקט נעמי\The_Project\Repository\bin\Debug\net8.0\Repository.pdb
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.dll
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\Repository.pdb
+D:\פרויקט נעמי\The_Project\Repository\obj\Debug\net8.0\ref\Repository.dll

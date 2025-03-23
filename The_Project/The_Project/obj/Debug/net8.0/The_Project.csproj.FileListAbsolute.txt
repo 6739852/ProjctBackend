@@ -1,0 +1,255 @@
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.staticwebassets.endpoints.json
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.exe
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.deps.json
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.runtimeconfig.json
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\The_Project.pdb
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.AssemblyReference.cache
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfoInputs.cache
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfo.cs
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.CoreCompileInputs.cache
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\scopedcss\bundle\The_Project.styles.css
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.The_Project.props
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The_Project.props
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The_Project.props
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Proj.832132F7.Up2Date
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\refint\The_Project.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.pdb
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\The_Project.genruntimeconfig.cache
+C:\Users\Aman\Desktop\The_Project\The_Project\obj\Debug\net8.0\ref\The_Project.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Service.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Service.pdb
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Mock.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Mock.pdb
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Common.dll
+C:\Users\Aman\Desktop\The_Project\The_Project\bin\Debug\net8.0\Common.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.staticwebassets.endpoints.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.exe
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.deps.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.runtimeconfig.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\The_Project.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Common.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Mock.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Repository.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Service.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Mock.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Repository.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Service.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\bin\Debug\net8.0\Common.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.AssemblyReference.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfoInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfo.cs
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.CoreCompileInputs.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\scopedcss\bundle\The_Project.styles.css
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.The_Project.props
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The_Project.props
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The_Project.props
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Proj.832132F7.Up2Date
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\refint\The_Project.dll
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.pdb
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\The_Project.genruntimeconfig.cache
+C:\Users\Aman\OneDrive\שולחן העבודה\The_Project\The_Project\obj\Debug\net8.0\ref\The_Project.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\appsettings.Development.json
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\appsettings.json
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.staticwebassets.endpoints.json
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.exe
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.deps.json
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.runtimeconfig.json
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\The_Project.pdb
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Azure.Core.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Azure.Identity.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Memory.Data.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Common.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Mock.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Repository.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Service.dll
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Mock.pdb
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Repository.pdb
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Service.pdb
+D:\פרויקט נעמי\The_Project\The_Project\bin\Debug\net8.0\Common.pdb
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.AssemblyReference.cache
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfoInputs.cache
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.AssemblyInfo.cs
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.csproj.CoreCompileInputs.cache
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\scopedcss\bundle\The_Project.styles.css
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.The_Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.The_Project.props
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The_Project.props
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The_Project.props
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Proj.832132F7.Up2Date
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.dll
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\refint\The_Project.dll
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.pdb
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\The_Project.genruntimeconfig.cache
+D:\פרויקט נעמי\The_Project\The_Project\obj\Debug\net8.0\ref\The_Project.dll
