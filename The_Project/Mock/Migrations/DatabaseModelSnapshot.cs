@@ -98,7 +98,6 @@ namespace Mock.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -110,6 +109,9 @@ namespace Mock.Migrations
 
                     b.Property<double>("Price")
                         .HasColumnType("float");
+
+                    b.Property<int>("Scope")
+                        .HasColumnType("int");
 
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
@@ -149,12 +151,25 @@ namespace Mock.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("NumOfCurrentGroups")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Phone")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Rating")
+                    b.Property<int?>("Rating")
                         .HasColumnType("int");
+
+                    b.Property<int>("Tz")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("alerts")
+                        .HasColumnType("bit");
 
                     b.HasKey("Id");
 
@@ -179,6 +194,12 @@ namespace Mock.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NumOfCurrentGroups")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NumOfWaitingGroups")
+                        .HasColumnType("int");
 
                     b.Property<string>("Password")
                         .IsRequired()
@@ -255,18 +276,21 @@ namespace Mock.Migrations
 
             modelBuilder.Entity("Repository.Entities.WantToOpen", b =>
                 {
-                    b.HasOne("Repository.Entities.User", "User")
-                        .WithMany()
+                    b.HasOne("Repository.Entities.User", null)
+                        .WithMany("WantToOpen")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Repository.Entities.Supplier", b =>
                 {
                     b.Navigation("PurchasingGroups");
+                });
+
+            modelBuilder.Entity("Repository.Entities.User", b =>
+                {
+                    b.Navigation("WantToOpen");
                 });
 #pragma warning restore 612, 618
         }

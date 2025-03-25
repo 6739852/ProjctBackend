@@ -8,6 +8,7 @@ using Mock;
 using Repository.Entities;
 using Service.Interface;
 using The_Project.Models;
+
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace The_Project.Controllers
@@ -83,7 +84,9 @@ namespace The_Project.Controllers
             }
 
             var token = service.Generate(user);
-            return Ok(new { Token = token });
+            Ok(new { Token = token });
+            ReturnUser returnUser = new ReturnUser(token,user.Name, user.NumOfCurrentGroups,user.NumOfWaitingGroups);
+            return Ok(returnUser);
         }
 
 
@@ -92,8 +95,8 @@ namespace The_Project.Controllers
         {
             await service.AddItem(user);
             var token = service.Generate(user);
-            TokenAndName tokenAndName = new TokenAndName(token, user.Name);
-            return Ok(tokenAndName);
+            ReturnUser returnUser = new ReturnUser(token, user.Name, user.NumOfCurrentGroups,user.NumOfWaitingGroups);
+            return Ok(returnUser);
         }
 
         // PUT api/<UserController>/5

@@ -493,52 +493,6 @@
             }
           }
         }
-      },
-      "post": {
-        "tags": [
-          "Supplier"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Supplier"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Supplier"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Supplier"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Supplier"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Supplier"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Supplier"
-                }
-              }
-            }
-          }
-        }
       }
     },
     "/api/Supplier/{id}": {
@@ -635,6 +589,68 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Supplier/SignIn": {
+      "post": {
+        "tags": [
+          "Supplier"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SupplierLogin"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SupplierLogin"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SupplierLogin"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Supplier/SignUp": {
+      "post": {
+        "tags": [
+          "Supplier"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Supplier"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Supplier"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Supplier"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -954,6 +970,10 @@
             "type": "integer",
             "format": "int32"
           },
+          "scope": {
+            "type": "integer",
+            "format": "int32"
+          },
           "currentAmount": {
             "type": "integer",
             "format": "int32"
@@ -1039,9 +1059,21 @@
             "type": "integer",
             "format": "int32"
           },
+          "tz": {
+            "type": "integer",
+            "format": "int32"
+          },
           "name": {
             "type": "string",
             "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "numOfCurrentGroups": {
+            "type": "integer",
+            "format": "int32"
           },
           "phone": {
             "type": "string",
@@ -1056,7 +1088,11 @@
           },
           "rating": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
+          },
+          "alerts": {
+            "type": "boolean"
           },
           "purchasingGroups": {
             "type": "array",
@@ -1071,6 +1107,24 @@
               "$ref": "#/components/schemas/Category"
             },
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "SupplierLogin": {
+        "required": [
+          "email",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "password": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
@@ -1097,10 +1151,25 @@
             "type": "string",
             "nullable": true
           },
+          "numOfCurrentGroups": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numOfWaitingGroups": {
+            "type": "integer",
+            "format": "int32"
+          },
           "purchasingGroups": {
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/PurchasingGroup"
+            },
+            "nullable": true
+          },
+          "wantToOpen": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WantToOpen"
             },
             "nullable": true
           }
@@ -1121,6 +1190,84 @@
           "email": {
             "minLength": 1,
             "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WantToOpen": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "category": {
+            "$ref": "#/components/schemas/Category"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "supplierId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "supplier": {
+            "$ref": "#/components/schemas/Supplier"
+          },
+          "status": {
+            "type": "boolean"
+          },
+          "openingDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "closedDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "amountMin": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "scope": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "currentAmount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "users": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/User"
+            },
+            "nullable": true
+          },
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "approvalDate": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false

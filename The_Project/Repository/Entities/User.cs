@@ -14,7 +14,11 @@ namespace Repository.Entities
         public string Email { get; set; }
         public bool Alerts { get; set; }
         public string Password { get; set; }
+        public int NumOfCurrentGroups { get; set; }
+        public int NumOfWaitingGroups { get; set; }
         public  virtual ICollection<PurchasingGroup> ?PurchasingGroups { get; set; }
+        public virtual ICollection<WantToOpen>? WantToOpen { get; set; }
+
 
     }
 }

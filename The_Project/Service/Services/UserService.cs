@@ -109,7 +109,7 @@ namespace Service.Services
                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()), // מזהה ייחודי
                new Claim(ClaimTypes.Name, user.Name), // שם המשתמש **אמיתי**
                new Claim(ClaimTypes.Email, user.Email), // אימייל
-               new Claim("PurchasingGroups", purchasingGroupsJson) // קבוצות רכישה תחת Claim מותאם אישית
+               new Claim(ClaimTypes.Actor, purchasingGroupsJson) // קבוצות רכישה תחת Claim מותאם אישית
             };
 
             var token = new JwtSecurityToken(

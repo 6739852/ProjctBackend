@@ -323,32 +323,6 @@
   },
   {
     "ContainingType": "The_Project.Controllers.SupplierController",
-    "Method": "Post",
-    "RelativePath": "api/Supplier",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "value",
-        "Type": "Repository.Entities.Supplier",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Repository.Entities.Supplier",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "The_Project.Controllers.SupplierController",
     "Method": "Get",
     "RelativePath": "api/Supplier/{id}",
     "HttpMethod": "GET",
@@ -421,6 +395,38 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "The_Project.Controllers.SupplierController",
+    "Method": "SignIn",
+    "RelativePath": "api/Supplier/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierLogin",
+        "Type": "The_Project.Models.SupplierLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "The_Project.Controllers.SupplierController",
+    "Method": "Post",
+    "RelativePath": "api/Supplier/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplier",
+        "Type": "Repository.Entities.Supplier",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "The_Project.Controllers.UserController",

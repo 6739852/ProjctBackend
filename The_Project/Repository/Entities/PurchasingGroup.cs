@@ -26,6 +26,7 @@ namespace Repository.Entities
         public DateTime OpeningDate { get; set; }
         public DateTime ClosedDate { get; set; }
         public int AmountMin { get; set; }
+        public int Scope { get; set; }
         public int CurrentAmount { get; set; }
         public string Description { get; set; }
         public virtual ICollection<User> ?Users { get; set; }

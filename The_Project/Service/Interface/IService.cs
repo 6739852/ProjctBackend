@@ -13,6 +13,5 @@ namespace Service.Interface
         Task<T> AddItem(T item);
         Task<T> UpDateItem(int id, T item);
         Task DeleteItem(int id);
-        //Task GetByPasswordAndEmail(string password, string email);
     }
 }

@@ -70,6 +70,7 @@ builder.Services.AddCors(option =>
         });
 });
 
+builder.Services.AddScoped<ISupplierService<Supplier>, SupplierService>();
 builder.Services.AddScoped<IUserService<User>, UserService>();
 builder.Services.AddServices();
 builder.Services.AddDbContext<IContext, Database>();

@@ -3,16 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\models\\returnsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\models\\returnsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\interface\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\interface\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\purchasinggroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\purchasinggroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\services\\extentionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\services\\extentionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\service\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC172CB-7C08-491E-87CA-5CFE31864846}|Service\\Service.csproj|solutionrelative:service\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\models\\returnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\models\\returnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\repository\\entities\\wanttoopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\wanttoopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\repository\\entities\\purchasinggroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43555D2A-E80A-410D-B3BC-C22CA9D87954}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\purchasinggroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307F5AFF-7EAA-4D92-BBCF-665B197D0303}|Mock\\Mock.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\mock\\migrations\\databasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307F5AFF-7EAA-4D92-BBCF-665B197D0303}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\databasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307F5AFF-7EAA-4D92-BBCF-665B197D0303}|Mock\\Mock.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\mock\\migrations\\20250325162322_signinorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307F5AFF-7EAA-4D92-BBCF-665B197D0303}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250325162322_signinorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\models\\supplierlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\models\\supplierlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\models\\tokenandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\models\\tokenandname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|c:\\users\\aman\\desktop\\projctbackend\\the_project\\the_project\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722BAE1-7F9F-4229-B669-C668C4621E9F}|The_Project\\The_Project.csproj|solutionrelative:the_project\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +102,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250325225431_Add-Alerts-To-Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250325225431_Add-Alerts-To-Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:54:31.36Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
-              "RelativeToolTip": "Repository\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "The_Project\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "The_Project\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:10:57.261Z",
+              "WhenOpened": "2025-03-25T14:40:20.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Repository\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:11:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\ISupplierService.cs",
+              "RelativeToolTip": "Service\\Interface\\ISupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:47:34.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\IService.cs",
+              "RelativeToolTip": "Service\\Interface\\IService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:15:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:47:38.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:34:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\UserService.cs*",
-              "RelativeToolTip": "Service\\Services\\UserService.cs*",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHEAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Service\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T16:10:14.333Z",
               "EditorCaption": ""
@@ -57,14 +215,196 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:10:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\ReturnSupplier.cs",
+              "RelativeDocumentMoniker": "The_Project\\Models\\ReturnSupplier.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\ReturnSupplier.cs",
+              "RelativeToolTip": "The_Project\\Models\\ReturnSupplier.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:11:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Program.cs",
+              "RelativeDocumentMoniker": "The_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Program.cs",
+              "RelativeToolTip": "The_Project\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:16:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExtentionService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\ExtentionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtentionService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\ExtentionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtentionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:15:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "The_Project\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\UserController.cs",
               "RelativeToolTip": "The_Project\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T16:00:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurchasingGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\PurchasingGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\PurchasingGroupService.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Service\\Services\\PurchasingGroupService.cs",
+              "RelativeToolTip": "Service\\Services\\PurchasingGroupService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:52:55.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReturnUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\ReturnUser.cs",
+              "RelativeDocumentMoniker": "The_Project\\Models\\ReturnUser.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\ReturnUser.cs",
+              "RelativeToolTip": "The_Project\\Models\\ReturnUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:11:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PurchasingGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\PurchasingGroup.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\PurchasingGroup.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\PurchasingGroup.cs",
+              "RelativeToolTip": "Repository\\Entities\\PurchasingGroup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:39:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WantToOpen.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\WantToOpen.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\WantToOpen.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Repository\\Entities\\WantToOpen.cs",
+              "RelativeToolTip": "Repository\\Entities\\WantToOpen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:39:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\DatabaseModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\DatabaseModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\DatabaseModelSnapshot.cs",
+              "RelativeToolTip": "Mock\\Migrations\\DatabaseModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:51:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250325162322_SignInOrUp.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\20250325162322_SignInOrUp.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250325162322_SignInOrUp.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\Mock\\Migrations\\20250325162322_SignInOrUp.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250325162322_SignInOrUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:23:23.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "The_Project\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "The_Project\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:41:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplierLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\SupplierLogin.cs",
+              "RelativeDocumentMoniker": "The_Project\\Models\\SupplierLogin.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\SupplierLogin.cs",
+              "RelativeToolTip": "The_Project\\Models\\SupplierLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:43:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenAndName.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\TokenAndName.cs",
+              "RelativeDocumentMoniker": "The_Project\\Models\\TokenAndName.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\TokenAndName.cs",
+              "RelativeToolTip": "The_Project\\Models\\TokenAndName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:14:57.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "The_Project\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Aman\\Desktop\\ProjctBackend\\The_Project\\The_Project\\Models\\UserLogin.cs",
+              "RelativeToolTip": "The_Project\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:42:39.808Z",
               "EditorCaption": ""
             }
           ]
