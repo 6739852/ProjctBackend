@@ -859,6 +859,191 @@
         }
       }
     },
+    "/api/WantToOpen": {
+      "get": {
+        "tags": [
+          "WantToOpen"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WantToOpen"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WantToOpen"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WantToOpen"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "WantToOpen"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/WantToOpen/{id}": {
+      "get": {
+        "tags": [
+          "WantToOpen"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WantToOpen"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "WantToOpen"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/WantToOpen"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "WantToOpen"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -1201,11 +1386,15 @@
             "type": "integer",
             "format": "int32"
           },
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
           "name": {
             "type": "string",
             "nullable": true
           },
-          "imageUrl": {
+          "description": {
             "type": "string",
             "nullable": true
           },
@@ -1215,55 +1404,6 @@
           },
           "category": {
             "$ref": "#/components/schemas/Category"
-          },
-          "price": {
-            "type": "number",
-            "format": "double"
-          },
-          "supplierId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "supplier": {
-            "$ref": "#/components/schemas/Supplier"
-          },
-          "status": {
-            "type": "boolean"
-          },
-          "openingDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "closedDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "amountMin": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "scope": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "currentAmount": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "users": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/User"
-            },
-            "nullable": true
-          },
-          "userId": {
-            "type": "integer",
-            "format": "int32"
           },
           "approvalDate": {
             "type": "string",

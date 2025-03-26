@@ -21,6 +21,7 @@ namespace Service.Services
             services.AddScoped<IService<User>, UserService>();
             services.AddScoped<IService<Supplier>, SupplierService>();
             services.AddScoped<IService<PurchasingGroupDto>, PurchasingGroupService>();
+            services.AddScoped<IService<WantToOpen>, WantToOpenService>();
             services.AddScoped<IService<Category>, CategoryService>();
             services.AddScoped<IAlgorithem, Algorithem>();
             services.AddAutoMapper(typeof(MyMapper));

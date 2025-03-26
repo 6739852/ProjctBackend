@@ -17,6 +17,7 @@ namespace Repository.Repositories
             services.AddScoped<IRepository<User>, UserRepository>();
             services.AddScoped<IRepository<Supplier>, SupplierRepository>();
             services.AddScoped<IRepository<PurchasingGroup>, PurchasingGroupRepository>();
+            services.AddScoped<IRepository<WantToOpen>, WantToOpenRepository>();
             services.AddScoped<IRepository<Category>, CategoryRepository>();
             return services;
         }

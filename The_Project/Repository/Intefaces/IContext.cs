@@ -15,8 +15,7 @@ namespace Repository.Intefaces
         public DbSet<PurchasingGroup> PurchasingGroups { get; set; }
         public DbSet<WantToOpen> WantToOpens{ get; set; }
         public DbSet<Category> Categories { get; set; }
-        //public DbSet<SupplierCategory> SupplierCategories { get; set; }
-        //public DbSet<UserPurchasingGroup> UserPurchasingGroups { get; set; }
+
         public Task Save();
 
     }
