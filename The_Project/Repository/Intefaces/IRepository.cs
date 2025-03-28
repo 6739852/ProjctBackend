@@ -9,7 +9,7 @@ namespace Repository.Intefaces
 {
     public interface IRepository<T>
     {
-        Task<List<T>> GetAll();   
+        Task<List<T>> GetAll();
         Task<T> GetById(int id);
         Task<T> AddItem(T item);
         Task<T> UpDateItem(int id,T item);

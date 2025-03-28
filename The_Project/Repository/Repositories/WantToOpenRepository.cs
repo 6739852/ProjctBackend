@@ -20,6 +20,7 @@ namespace Repository.Repositories
         public async Task<WantToOpen> AddItem(WantToOpen item)
         {
             await context.WantToOpens.AddAsync(item);
+            
             await context.Save();
             return item;
         }

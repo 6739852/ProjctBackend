@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Common.Dto;
+using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
 using Service.Interface;
 using The_Project.Models;
@@ -12,7 +13,7 @@ namespace The_Project.Controllers
     public class SupplierController : ControllerBase
     {
         private readonly ISupplierService<Supplier> service;
-        public SupplierController(ISupplierService<Supplier> service)
+        public SupplierController(ISupplierService<Supplier> service, IService<PurchasingGroupDto> service1)
         {
               this.service = service;
         }
@@ -31,6 +32,12 @@ namespace The_Project.Controllers
             return service.GetById(id);
         }
 
+        [HttpGet("GetPurchasingGroup")]
+        public Task<List<PurchasingGroupDto>> GetPurchasingGroup(int id)
+        {
+            return service.GetPurchasingGroupsById(id);
+        }
+
         // POST api/<SupplierController>
         //[HttpPost]
         //public async Task<Supplier> Post([FromBody] Supplier supplier)
@@ -44,6 +51,7 @@ namespace The_Project.Controllers
         {
             await service.UpDateItem(id, value);
         }
+      
         [HttpPost("SignIn")]
         public async Task<IActionResult> SignIn([FromBody] SupplierLogin supplierLogin)
         {
@@ -64,7 +72,6 @@ namespace The_Project.Controllers
             return Ok(returnSupplier);
         }
 
-
         [HttpPost("SignUp")]
         public async Task<IActionResult> Post([FromBody] Supplier supplier)
         {
@@ -73,11 +80,17 @@ namespace The_Project.Controllers
             ReturnSupplier returnSupplier = new ReturnSupplier(token, supplier.Name, supplier.NumOfCurrentGroups);
             return Ok(returnSupplier);
         }
+
         // DELETE api/<SupplierController>/5
         [HttpDelete("{id}")]
         public async Task Delete(int id)
         {
             await service.DeleteItem(id);
+        }
+        [HttpGet("GetWantToOpen")]
+        public Task<List<WantToOpen>> GetWantToOpen(int id)
+        {
+            return service.GetWantToOpenById(id);
         }
     }
 }

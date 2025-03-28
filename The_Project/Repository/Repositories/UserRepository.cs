@@ -9,7 +9,7 @@ using Repository.Intefaces;
 
 namespace Repository.Repositories
 {
-    public class UserRepository : IRepository<User>
+    public class UserRepository : IGetPurchasigGroups<User>
     {
         private readonly IContext context;
         public UserRepository(IContext context)
@@ -32,11 +32,27 @@ namespace Repository.Repositories
         public async Task<List<User>> GetAll()
         {
             return await context.Users.ToListAsync();
+
         }
 
         public async Task<User> GetById(int id)
         {
             return await context.Users.FirstOrDefaultAsync(x => x.Id == id);
+        }
+
+        public async Task<List<PurchasingGroup>> GetPurchasingGroupsById(int id)
+        {
+            return await context.PurchasingGroups
+                .Include(x => x.Users) // כולל את רשימת המשתמשים
+                .Where(x => x.Users.Any(u => u.Id == id)) // מסנן קבוצות שבהן ה- UserId נמצא
+                .ToListAsync();
+        }
+
+        public async Task<List<WantToOpen>> GetWantToOpenById(int id)
+        {
+            return await context.WantToOpens
+             .Where(x => x.UserId == id)
+             .ToListAsync();
         }
 
         public async Task<User> UpDateItem(int id, User item)

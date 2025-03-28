@@ -9,7 +9,7 @@ using Repository.Intefaces;
 
 namespace Repository.Repositories
 {
-    public class SupplierRepository : IRepository<Supplier>
+    public class SupplierRepository : IGetPurchasigGroups<Supplier>
     {
         private readonly IContext context;
         public SupplierRepository(IContext context)
@@ -35,9 +35,24 @@ namespace Repository.Repositories
             return await context.Suppliers.ToListAsync();
         }
 
+        //public async Task<PurchasingGroup> GetPurchasingGroupsById(int id)
+        //{
+        //}
+
+        //public Task<List<PurchasingGroup>> IGetPurchasigGroups<Supplier>.GetPurchasingGroupsById(int id)
+        //{
+        //    throw new NotImplementedException();
+        //}
+        public async Task<List<PurchasingGroup>> GetPurchasingGroupsById(int id)
+        {
+            return await context.PurchasingGroups
+             .Where(x => x.SupplierId == id)
+             .ToListAsync();
+        }
+
         public async Task<Supplier> GetById(int id)
         {
-            return await context.Suppliers.FirstOrDefaultAsync(x=>x.Id==id);
+            return await context.Suppliers.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<Supplier> UpDateItem(int id, Supplier item)
@@ -51,6 +66,13 @@ namespace Repository.Repositories
             supplier.Categories = item.Categories;
             await context.Save();
             return item;
+        }
+
+        public async Task<List<WantToOpen>> GetWantToOpenById(int id)
+        {
+            return await context.WantToOpens
+                 .Where(x => x.Id == x.Id)
+                 .ToListAsync();
         }
     }
 }

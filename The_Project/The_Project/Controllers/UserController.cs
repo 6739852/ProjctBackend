@@ -1,6 +1,7 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Common.Dto;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -18,7 +19,8 @@ namespace The_Project.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserService<User> service;
-        public UserController(IUserService<User> service)
+
+        public UserController(IUserService<User> service, IService<PurchasingGroupDto> service1)
         {   
             this.service = service;
         }
@@ -35,6 +37,18 @@ namespace The_Project.Controllers
         {
             return service.GetById(id);
         }
+
+        [HttpGet("GetPurchasingGroup")]
+        public Task<List<PurchasingGroupDto>> GetPurchasingGroup(int id)
+        {
+            return service.GetPurchasingGroupsById(id);
+        }
+        [HttpGet("GetWantToOpen")]
+        public Task<List<WantToOpen>> GetWantToOpen(int id)
+        {
+            return service.GetWantToOpenById(id);
+        }
+
 
         //// POST api/<UserController>
         //[HttpPost]

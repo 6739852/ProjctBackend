@@ -18,9 +18,9 @@ namespace The_Project.Controllers
         }
         // GET: api/<PurchasingGroupController>
         [HttpGet]
-        public Task<List<PurchasingGroupDto>> Get()
+        public async Task<List<PurchasingGroupDto>> Get()
         {
-            return service.GetAll();
+            return await service.GetAll();    
         }
 
         // GET api/<PurchasingGroupController>/5

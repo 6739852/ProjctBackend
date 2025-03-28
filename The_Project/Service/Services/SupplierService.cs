@@ -6,6 +6,8 @@ using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using AutoMapper;
+using Common.Dto;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Repository.Entities;
@@ -16,12 +18,14 @@ namespace Service.Services
 {
     public class SupplierService : ISupplierService<Supplier>
     {   
-        private readonly IRepository<Supplier> repository;
+        private readonly IGetPurchasigGroups<Supplier> repository;
+        private IMapper mapper;
         private readonly IConfiguration config;
 
-        public SupplierService(IRepository<Supplier> repository, IConfiguration config)
+        public SupplierService(IGetPurchasigGroups<Supplier> repository, IConfiguration config, IMapper mapper)
         {
             this.repository = repository;
+            this.mapper = mapper;
             this.config = config;
         }
         public async Task<Supplier> AddItem(Supplier item)
@@ -42,6 +46,12 @@ namespace Service.Services
         public async Task<Supplier> GetById(int id)
         {
             return await repository.GetById(id);
+        }
+
+        public async Task<List<PurchasingGroupDto>> GetPurchasingGroupsById(int id)
+        {
+            return mapper.Map<List<PurchasingGroupDto>>(await repository.GetPurchasingGroupsById(id));
+            //return await repository.GetPurchasingGroupsById(id);
         }
 
         public Task<Supplier> UpDateItem(int id, Supplier item)
@@ -81,6 +91,11 @@ namespace Service.Services
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
+        public async Task<List<WantToOpen>> GetWantToOpenById(int id)
+        {
+            return await repository.GetWantToOpenById(id);
         }
     }
 }

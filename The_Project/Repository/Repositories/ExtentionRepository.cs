@@ -14,8 +14,8 @@ namespace Repository.Repositories
         public static IServiceCollection AddRepository(this IServiceCollection services)
         {
 
-            services.AddScoped<IRepository<User>, UserRepository>();
-            services.AddScoped<IRepository<Supplier>, SupplierRepository>();
+            services.AddScoped<IGetPurchasigGroups<User>, UserRepository>();
+            services.AddScoped<IGetPurchasigGroups<Supplier>, SupplierRepository>();
             services.AddScoped<IRepository<PurchasingGroup>, PurchasingGroupRepository>();
             services.AddScoped<IRepository<WantToOpen>, WantToOpenRepository>();
             services.AddScoped<IRepository<Category>, CategoryRepository>();
